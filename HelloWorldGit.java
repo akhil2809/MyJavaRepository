@@ -1,5 +1,9 @@
 class HelloWorld
 {
+	void display()
+	{
+		sysout();
+	}
 	public static void main(String args[])
 	{
 		System.out.println("Hello World");
