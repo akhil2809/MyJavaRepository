@@ -2,7 +2,7 @@ class HelloWorld
 {
 	void display()
 	{
-		sysout();
+		System.out.print("DATE");
 	}
 	public static void main(String args[])
 	{
