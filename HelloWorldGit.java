@@ -1,6 +1,6 @@
 class HelloWorld
 {
-	void display()
+	static void display()
 	{
 		System.out.print("DATE");
 	}
@@ -9,7 +9,5 @@ class HelloWorld
 		System.out.println("Hello World");
 		System.out.println("Hello World 2");
 		System.out.println("Hello World 3");
-
-
 	}
 }
